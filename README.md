@@ -16,5 +16,11 @@ tables included in the database are as follows:
 
 
 ● Customer Table
+
+
 ● Claim Table
+
+
 ● Payment Table
+
+
