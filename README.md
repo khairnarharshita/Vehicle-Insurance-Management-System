@@ -7,8 +7,14 @@ system should be accessible for both the admin and user .The objective of the DB
 to streamline the insurance company's operations.
 
 tables included in the database are as follows:
+
+
 ● Policy Table
+
+
 ● Admin Table
+
+
 ● Customer Table
 ● Claim Table
 ● Payment Table
